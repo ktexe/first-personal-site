@@ -1,0 +1,21 @@
+body {
+    background-color: #FCF8E8;  
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%; 
+}
+
+h1 {
+    color: #DF7861; 
+    font-family:'Courier New', Courier, monospace
+}
+
+h3 {
+    color: #94B49F;
+    font-family:'Courier New', Courier, monospace
+}
